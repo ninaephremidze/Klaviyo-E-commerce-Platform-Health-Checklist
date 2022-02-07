@@ -1,4 +1,4 @@
-# demo-health
+# Demo-Health
 
 This repo contains the files used to generate the demo-health google sheet, that continuously monitors the health of our various demo environments in Klaviyo
 Link to the Health Checklist: https://github.com/ninaephremidze/Klaviyo-E-commerce-Platform-Health-Checklist/blob/main/check_all.py
@@ -17,8 +17,10 @@ This file contains a dictionary of store names mapped to klaviyo private key; it
 
 This file iterates through every .csv in directory and sends the data contained to a google sheet shared with the team
 
-### Helpful Reference Content"
-1. Sample Google Sheet for Magento 2 health checklist
+### Helpful Reference Content
+
+1. [Sample Google Sheet for Magento 2 health checklist:] (https://docs.google.com/spreadsheets/d/1G2l6RlGlp3BYN02-17O_keadPe3isYw0-j7_87iQ-YQ/edit#gid=50897110)
+
 The final output is a table of data in Google Sheets
 This is an illustrative example showcasing sample output for Magento 2
 
