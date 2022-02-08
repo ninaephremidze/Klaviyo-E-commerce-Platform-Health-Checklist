@@ -50,7 +50,7 @@ If you don’t have an environment setup, here are the possible alternatives on 
 
 4. Run the code
 
-   Part II:
+Part II:
 
 1. Once you execute the above steps, you’d need to [send_to_gsheets.py](https://github.com/ninaephremidze/Klaviyo-E-commerce-Platform-Health-Checklist/blob/main/send_to_gsheets.py) will upload the csv files to google sheets
 
@@ -60,15 +60,14 @@ If you don’t have an environment setup, here are the possible alternatives on 
 
    pip install google-api-python-client
 
-   Part III: 
 
-   Upload the information we got from Klaviyo to Google Sheets: 
+Part III: 
+
+Upload the information we got from Klaviyo to Google Sheets: 
 
 1. [Open API library in Google API console](https://developers.google.com/api-client-library)
 
-2. Search for Google Sheets API and click enable 
-
-   P.S.You may need to make a project, if you are on a managed google account and not personal
+2. Search for Google Sheets API and click enable. You may need to make a project, if you are on a managed google account and not personal
 
 3. Create credentials, Google API, user data
 
