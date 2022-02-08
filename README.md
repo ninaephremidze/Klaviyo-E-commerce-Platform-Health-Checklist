@@ -25,7 +25,7 @@ This file iterates through every .csv in directory and sends the data contained 
 The final output is a table of data in Google Sheets
 This is an illustrative example showcasing sample output for Magento 2
 
-2. [Google Sheets]for various e-commerce platforms health checklist(https://docs.google.com/spreadsheets/d/19sF9aweqwn-wMyNQNrXqXCQIC1LTUuagXcsd3pYaruo/edit#gid=2094281381)
+2. [Google Sheets](https://docs.google.com/spreadsheets/d/19sF9aweqwn-wMyNQNrXqXCQIC1LTUuagXcsd3pYaruo/edit#gid=2094281381)for various e-commerce platforms health checklist
 Depending on the ecommerce platform you are running, the output can vary slightly
 This contains illustrative examples of output for other eCommerce platforms.
 
