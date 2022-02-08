@@ -57,6 +57,7 @@ If you don’t have an environment setup, here are the possible alternatives on 
 2. Make sure to install the correct packages as shown in the send_to_gsheets.py, otherwise your code will be gray and it will not run
 
 3. pip install  correct packages
+
    pip install google-api-python-client
 
    Part III: Upload the information we got from Klaviyo to Google Sheets: 
