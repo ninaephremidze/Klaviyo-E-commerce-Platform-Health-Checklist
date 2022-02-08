@@ -25,15 +25,13 @@ This file iterates through every .csv in directory and sends the data contained 
 The final output is a table of data in Google Sheets
 This is an illustrative example showcasing sample output for Magento 2
 
-2. Google Sheets for various e-commerce platforms health checklist: 
-https://docs.google.com/spreadsheets/d/19sF9aweqwn-wMyNQNrXqXCQIC1LTUuagXcsd3pYaruo/edit#gid=2094281381
+2. [Google Sheets] for various e-commerce platforms health checklist:(https://docs.google.com/spreadsheets/d/19sF9aweqwn-wMyNQNrXqXCQIC1LTUuagXcsd3pYaruo/edit#gid=2094281381)
 Depending on the ecommerce platform you are running, the output can vary slightly
 This contains illustrative examples of output for other eCommerce platforms.
 
-3. Instructions on how to enable the required Google APIs in the API Console  and how to use OAuth for web server applications.
-https://developers.google.com/identity/protocols/oauth2/web-server#enable-apis
+3. Instructions on [how to enable the required Google APIs] in the API Console  and how to use OAuth for web server applications.(https://developers.google.com/identity/protocols/oauth2/web-server#enable-apis)
 
-4. Google API’s Client Library for Python
-https://github.com/googleapis/google-api-python-client/blob/cbb1f88b82b21f5cb9dcace33ffea3f95a189015/docs/client-secrets.md
+4. Google API’s [Client Library for Python](https://github.com/googleapis/google-api-python-client/blob/cbb1f88b82b21f5cb9dcace33ffea3f95a189015/docs/client-secrets.md)
+
 
 
