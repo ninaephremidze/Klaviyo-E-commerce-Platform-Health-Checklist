@@ -28,6 +28,7 @@ This file iterates through every .csv in directory and sends the data contained 
 ### Set Up Code Environment:
 
 If you don’t have an environment setup, here are the possible alternatives on how to run the code in a serverless way:
+
 1.[Run Serverless code via AWS Lambda](https://faun.pub/run-serverless-code-via-aws-lambda-e4f19efd3ed9)
 2.[Use replit])https://replit.com/talk/ask/Running-a-program/15179), you can connect it to Github 
 3. Use [Google Colab](https://colab.research.google.com/)
@@ -55,8 +56,8 @@ pip install google-api-python-client
 Part III:
 Upload the information we got from Klaviyo to Google Sheets: 
 
-1.[Open API library in Google API console](https://developers.google.com/api-client-library)
-2.Search for Google Sheets API and click enable 
+1. [Open API library in Google API console](https://developers.google.com/api-client-library)
+2. Search for Google Sheets API and click enable 
 P.S. You may need to make a project, if you are on a managed google account and not personal
 3.Create credentials, Google API, user data
 4.Search for [scope](https://www.googleapis.com/auth/spreadsheets) and add it
