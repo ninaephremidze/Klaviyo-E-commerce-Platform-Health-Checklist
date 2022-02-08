@@ -60,9 +60,7 @@ If you don’t have an environment setup, here are the possible alternatives on 
 
    pip install google-api-python-client
 
-   Part III: 
-   
-   Upload the information we got from Klaviyo to Google Sheets: 
+   Part III: Upload the information we got from Klaviyo to Google Sheets: 
 
 1. [Open API library in Google API console](https://developers.google.com/api-client-library)
 
