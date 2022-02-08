@@ -19,7 +19,7 @@ This file iterates through every .csv in directory and sends the data contained 
 
 ### Helpful Reference Content
 
-1. Sample Google Sheet for [Magento 2 health checklist:]( https://docs.google.com/spreadsheets/d/1G2l6RlGlp3BYN02-17O_keadPe3isYw0-j7_87iQ-YQ/edit#gid=50897110)
+1. Sample Google Sheet for [Magento 2 health checklist:](https://docs.google.com/spreadsheets/d/1G2l6RlGlp3BYN02-17O_keadPe3isYw0-j7_87iQ-YQ/edit#gid=50897110)
 
 
 The final output is a table of data in Google Sheets
