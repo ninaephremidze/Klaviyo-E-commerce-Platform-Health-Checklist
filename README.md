@@ -1,14 +1,15 @@
 # Description:
 
 This repo contains the files used to generate the demo-health Google Sheet, that continuously monitors the health of our various demo environments in Klaviyo.
-Below is the sample screenshot of what the data would look likein the Google Sheet doc:
+Below is the sample screenshot of what the data would look likein the Google Sheet doc: 
 
 
 
 
 
 
-![image](https://user-images.githubusercontent.com/94074660/157142724-47159d52-e6b5-48a3-8192-58a106af6380.png)
+![image](https://user-images.githubusercontent.com/94074660/157142760-8c554e49-0df7-43aa-b90f-0c746554d1e3.png)
+
 
 
 # File structure
