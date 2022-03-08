@@ -8,7 +8,7 @@ Below is the sample screenshot of what the data would look likein the Google She
 
 
 
-![image](https://user-images.githubusercontent.com/94074660/157140960-3ccc28c8-3ae3-4473-9733-974bdab987eb.png)
+![image](https://user-images.githubusercontent.com/94074660/157142724-47159d52-e6b5-48a3-8192-58a106af6380.png)
 
 
 # File structure
