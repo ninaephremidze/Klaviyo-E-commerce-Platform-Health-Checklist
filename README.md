@@ -39,7 +39,7 @@ This file iterates through every .csv in directory and sends the data contained 
 4. Create a secret file for [google sheets credentials](https://developers.google.com/identity/protocols/oauth2/web-server#prerequisites)
 5. Klaviyo account 
 
-### Set Up Code Environment:
+### Run the Code Using One of the Following Tools:
 
 If you don’t have an environment setup, here are the possible alternatives on how to run the code in a serverless way:
 
