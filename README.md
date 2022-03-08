@@ -1,6 +1,7 @@
 # Description:
 
-This repo contains the files used to generate the demo-health Google Sheet, that continuously monitors the health of our various demo environments in Klaviyo
+This repo contains the files used to generate the demo-health Google Sheet, that continuously monitors the health of our various demo environments in Klaviyo.
+Below is the sample screenshot of what the data would look likein the Google Sheet doc:
 
 
 
@@ -64,7 +65,7 @@ Part II:
 
 3. pip install  correct packages
 
-   pip install google-api-python-client
+4. pip install google-api-python-client
 
 
 Part III: 
