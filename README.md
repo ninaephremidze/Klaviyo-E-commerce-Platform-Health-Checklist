@@ -52,7 +52,7 @@ If you don’t have an environment setup, here are the possible alternatives on 
 ### Steps to Run the Code ( once you set up the code environment)
 
 1. You can use the [check_all.py](https://docs.google.com/document/d/1hCH_d5Hug6f3suWbriII0azIj3ohfFEJRRMytxv7J_w/edit#) or the 
-   [demo_checks.py].(https://github.com/ninaephremidze/Klaviyo-E-commerce-Platform-Health-Checklist/blob/main/demo_checks.py) code to achieve your goal.
+   [demo_checks.py](https://github.com/ninaephremidze/Klaviyo-E-commerce-Platform-Health-Checklist/blob/main/demo_checks.py) code to achieve your goal.
    The main difference between them is that: Running check_all.py will itself then run demo_checks.py for each store type, ex. Magento2, Shopify, 
    Big Commerce,etc. If you were to run the demo_checks.py, it will automatically run for each store. This will get the data from Klaviyo and save it in 
    your working folder directory as a store_name.csv for each store.
