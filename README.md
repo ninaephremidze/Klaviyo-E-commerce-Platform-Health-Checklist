@@ -1,6 +1,6 @@
 # Description:
 
-This repo contains the files used to generate the demo-health Google Sheet, that continuously monitors the health of our various demo environments in Klaviyo.
+This repository contains the files used to generate the demo-health Google Sheet, that continuously monitors the health of our various demo environments in Klaviyo.
 Below is the sample screenshot of what the data would look likein the Google Sheet doc: 
 
 
@@ -52,7 +52,7 @@ If you don’t have an environment setup, here are the possible alternatives on 
 ### Steps to Run the Code ( once you set up the code environment)
 
 1. You can use the [check_all.py](https://docs.google.com/document/d/1hCH_d5Hug6f3suWbriII0azIj3ohfFEJRRMytxv7J_w/edit#) or the 
-   [demo_checks.py]. (https://github.com/ninaephremidze/Klaviyo-E-commerce-Platform-Health-Checklist/blob/main/demo_checks.py) code to achieve your goal.
+   [demo_checks.py].(https://github.com/ninaephremidze/Klaviyo-E-commerce-Platform-Health-Checklist/blob/main/demo_checks.py) code to achieve your goal.
    The main difference between them is that: Running check_all.py will itself then run demo_checks.py for each store type, ex. Magento2, Shopify, 
    Big Commerce,etc. If you were to run the demo_checks.py, it will automatically run for each store. This will get the data from Klaviyo and save it in 
    your working folder directory as a store_name.csv for each store.
@@ -69,9 +69,9 @@ Part II:
 
 2. Make sure to install the correct packages as shown in the send_to_gsheets.py, otherwise your code will be gray and it will not run
 
-3. `pip install  correct packages'
+3. ```pip install  correct packages```
 
-4. `pip install google-api-python-client'
+4. ```pip install google-api-python-client```
 
 
 Part III: 
