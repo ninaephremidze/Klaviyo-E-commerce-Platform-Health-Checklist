@@ -63,9 +63,9 @@ Part II:
 
 2. Make sure to install the correct packages as shown in the send_to_gsheets.py, otherwise your code will be gray and it will not run
 
-3. <pip install  correct packages>
+3. pip install  correct packages
 
-4. < pip install google-api-python-client >
+4. pip install google-api-python-client 
 
 
 Part III: 
